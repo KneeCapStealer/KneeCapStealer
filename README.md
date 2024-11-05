@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on stealing more kneecaps
 - 📫 How to reach me donate your kneecaps
 
-<!---
-KneeCapStealer/KneeCapStealer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+#### Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KneeCapStealer&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KneeCapStealer&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
